@@ -1,10 +1,16 @@
-# AI Social Media Manager
+# 🌐 Zion App Network — Interlinks
 
-Automated content scheduling and analytics.
+**ai-social-manager** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) · [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) · [ai-caption-optimizer](https://github.com/Zion-support/ai-caption-optimizer) · [zion-ai-social-listening](https://github.com/Zion-support/zion-ai-social-listening) · [zion-ai-seo-optimizer](https://github.com/Zion-support/zion-ai-seo-optimizer)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [zion-ai-localization-ops](https://github.com/Zion-support/zion-ai-localization-ops) — continuous i18n/l10n pipeline
+- [changelog-writer](https://github.com/Zion-support/changelog-writer) — release notes from commits
+- [prompt-forge](https://github.com/Zion-support/prompt-forge) — build & score prompts
+- [ai-image-generator](https://github.com/Zion-support/ai-image-generator) — AI image creation
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
