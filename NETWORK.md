@@ -1,16 +1,18 @@
-# 🌐 Zion App Network — Interlinks
+# AI Social Media Manager — Part of the Zion AI App Network
 
-**ai-social-manager** is part of the Zion Tech Group app network (630+ apps).
+Live app: https://zion-support.github.io/ai-social-manager/
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
+## 🔗 Explore the network
+- 🏠 Homepage: https://ziontechgroup.com/
+- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Free discovery call: https://ziontechgroup.com/discovery/
 
 ## Related apps
-- [zion-ai-localization-ops](https://github.com/Zion-support/zion-ai-localization-ops) — continuous i18n/l10n pipeline
-- [changelog-writer](https://github.com/Zion-support/changelog-writer) — release notes from commits
-- [prompt-forge](https://github.com/Zion-support/prompt-forge) — build & score prompts
-- [ai-image-generator](https://github.com/Zion-support/ai-image-generator) — AI image creation
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [AI Advertising Optimizer](https://ziontechgroup.com/ai-advertising-optimizer/)
+- [Zion AI Social Listening](https://ziontechgroup.com/zion-ai-social-listening/)
+- [AI Growth Marketing Hub](https://ziontechgroup.com/ai-growth-marketing-hub/)
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/
