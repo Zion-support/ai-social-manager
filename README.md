@@ -1,2 +1,10 @@
-# ai-social-manager
-AI Social Media Manager — automated content scheduling and analytics
+# AI Social Media Manager
+
+Automated content scheduling and analytics.
+
+🚀 **Live app:** https://ai-social-manager.ziontechgroup.com
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
+See [NETWORK.md](NETWORK.md) for interlinks to related apps.
